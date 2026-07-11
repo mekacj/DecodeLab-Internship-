@@ -1,12 +1,33 @@
-# DecodeLab-Internship-
+# DecodeLabs Data Analytics Internship
 
-My solutions and projects were completed during the DecodeLabs Data Analytics Internship.
+Welcome to my DecodeLabs Data Analytics Internship portfolio.
 
-Welcome!
+This repository contains the projects I completed during the internship, demonstrating practical data analytics skills using Microsoft Excel and SQL.
 
-This repository contains my completed tasks during the DecodeLabs Data Analytics Internship.
+## Projects
 
-Tasks
-Task 1 – Data Cleaning with Excel
-Task 2 – EDA and Trend Analysis using Excel
-Task 3 – SQL Analysis
+### 01. Data Cleaning using Excel
+- Data cleaning and preprocessing
+- Removing duplicates
+- Handling missing values
+- Standardizing formats
+
+### 02. Exploratory Data Analysis & Trend Analysis
+- Pivot Tables
+- Trend analysis
+- Business insights
+
+### 03. SQL Analysis
+- Data querying
+- Aggregations
+- Business reporting
+
+## Tools Used
+
+- Microsoft Excel
+- SQL (MySQL)
+- Git & GitHub
+
+## Author
+
+Joseph Chukwuemeka Igbokwe
