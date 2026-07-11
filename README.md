@@ -30,4 +30,4 @@ This repository contains the projects I completed during the internship, demonst
 
 ## Author
 
-Joseph Chukwuemeka Igbokwe
+Igbokwe Joseph Chukwuemeka
