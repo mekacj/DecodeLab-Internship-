@@ -15,5 +15,5 @@ Sales Record
 ## Steps
 
 1. Cleaning the data and ensuring all records are complete
-2. Finding patterns using through query
+2. Finding patterns using queries
    
