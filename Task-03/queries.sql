@@ -3,6 +3,8 @@ Create database Internship
 
 use Internship;
 
+-- Import the .csv data using the import data function
+
 -- Check if the rows are complete
 select count(*)
 from internship.dataset;
