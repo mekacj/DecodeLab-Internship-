@@ -14,6 +14,10 @@ Sales Record
 
 ## Steps
 
-1. Cleaning the data and ensuring all records are complete
-2. Finding patterns using queries
+1. Import and prepare the dataset for analysis.
+2. Write SQL queries to answer business questions.
+3. Perform data aggregation and summarization.
+4. Generate insights to support data-driven decision-making.
+
+
    
