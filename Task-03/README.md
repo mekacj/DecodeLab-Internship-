@@ -19,5 +19,7 @@ Sales Record
 3. Perform data aggregation and summarization.
 4. Generate insights to support data-driven decision-making.
 
-
-   
+## Results
+- Raw Data
+- SQL query
+- Screenshot of results 
